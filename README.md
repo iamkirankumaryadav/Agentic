@@ -96,3 +96,27 @@ How Reflection works in Agentic AI❓
 5. Repeat (if needed)
 👉🏻 Think → Self Review → Improve → Finally Generate
 ```
+
+### Agentic Workflow
+```
+What is an Agentic Workflow?
+1. A step-by-step process where an AI agent plans, acts, and completes a task automatically.
+2. Instead of doing one step, it handles the entire flow end-to-end.
+3. Application: DevOps Automation, Customer Support Systems, Data Pipelines, Training AI.
+
+Real Life Analogy
+Think of ordering food online 🍕
+You place an order 🍔
+1. AI Confirms Order ✅
+2. Assigns Restaurant 🍽️
+3. Tracks Delivery 🛵
+4. Sends Updates 🔔
+👉🏻 The full process is know as workflow, if AI manages it → Agentic Workflow
+
+Core Steps in Agentic Workflow:
+1. Goal Understanding: What does user want?
+2. Planning: Break task into steps 👉🏻 Fetch → Analyze → Respond
+3. Execution: Calls APIs, Queries database, and Runs logic
+4. Reflection (Self-Check): Verifies output and fixes mistakes
+5. Memory (Optional): Stores context for future steps
+```
