@@ -3,7 +3,8 @@
 ### AI Agents
 ```
 Definition:
-A smart system that can understand, think, plan, decide, and take actions to complete a task.
+- A smart system that can understand, think, plan, decide, and take actions to complete a task.
+- Different agents have different levels of intelligence, from simple reactions to decision-making systems.
 
 Type of Agents:
 1. Reactive Agent: Just responds
@@ -37,6 +38,40 @@ Applications:
 2. Customer Support Automation
 3. Data Analysis Agents
 4. Workflow Automation (Operations, Ticketing)
+```
+
+### Agent to Human Handoff
+```
+What is Agent-to-Human Handoff?
+1. When an AI agent passes the task to a human, because it's too complex, sensitive, or AI is not confident.
+2. AI stepping aside and letting a human take over when needed.
+
+Why Handoff is needed?
+1. AI is powerful, but not perfect
+2. When the problem is complex, emotional, sensitive, legal/financial, low confidence answers.
+3. It send back the control to human.
+
+Flow:
+User request → AI agent tries to solve → Confidence check → If unsure → Handoff to human → Human resolves
+
+Applications:
+1. Customer Support Chatbots
+2. Banking and Fintech
+3. Healthcare Systems
+4. IT Helpdesk / Ticketing
+
+Pro Insight:
+Good systems don't try to automate everything.
+👉🏻 They balance AI Automation and Human Expertise
+```
+
+### Human in the Loop
+```
+What is Human in the Loop?
+1. AI works, but human stays involved to review, guide, or approve. AI is not fully independent.
+2. AI generates output, human checks it, human approves, edits, or rejects. AI continuous or improves.
+3. It improves accuracy, reduces risk, handles sensitive decisions, builds trust in AI.
+4. AI works with human supervision to ensure accuracy and reliability.
 ```
 
 ### Reflection
