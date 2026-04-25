@@ -1,6 +1,7 @@
 # Agentic AI 🤖
 
 ### Reflection
+
 ```
 - The AI looks at its own work and asks "Did I do this correctly? Can I improve it?".
 - The AI self reviews and improves its own output before generating final response.
