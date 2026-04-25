@@ -3,8 +3,8 @@
 ### AI Agents
 ```
 Definition:
-- A smart system that can understand, think, plan, decide, and take actions to complete a task.
-- Different agents have different levels of intelligence, from simple reactions to decision-making systems.
+1. A smart system that can understand, think, plan, decide, and take actions to complete a task.
+2. Different agents have different levels of intelligence, from simple reactions to decision-making systems.
 
 Type of Agents:
 1. Reactive Agent: Just responds
