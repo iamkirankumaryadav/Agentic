@@ -2,6 +2,7 @@
 
 ### Reflection
 ```
+What is Reflection?
 1. The AI looks at its own work and asks "Did I do this correctly? Can I improve it?".
 2. The AI self reviews and improves its own output before generating final response.
 3. Pros: Better accuracy, few mistakes, more complete and relevant response.
