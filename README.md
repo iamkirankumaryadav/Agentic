@@ -120,3 +120,28 @@ Core Steps in Agentic Workflow:
 4. Reflection (Self-Check): Verifies output and fixes mistakes
 5. Memory (Optional): Stores context for future steps
 ```
+
+### Complexity Threshold
+```
+- The point at which a task or problem exceeds the capabilities of an AI system.
+- The task requires either more advanced AI, or a handoff to a human to complete the task.
+```
+
+### Context Awareness
+```
+- Context-aware AI uses past interactions and real-time data to understand and respond.
+- AI analuze user’s unique environment and situation (such as time of day, or whether they’re at home or work).
+- This helps the AI agent give more relevant and personalized responses.
+```
+
+### Context Window
+```
+- A context window is an AI model’s short-term memory.
+- It’s the amount of text (tokens) that the model can read and consider at one time when generating a response.
+```
+
+### Deterministic Reasoning
+```
+- A type of reasoning that exclusively uses rule-based logic to guarantee the same output for the same input.
+- AI agents are non-deterministic, they can produce different outputs or take different actions even when given the same prompts.
+```
