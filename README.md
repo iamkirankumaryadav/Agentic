@@ -145,3 +145,41 @@ Core Steps in Agentic Workflow:
 - A type of reasoning that exclusively uses rule-based logic to guarantee the same output for the same input.
 - AI agents are non-deterministic (produce different outputs or take different actions for same prompts)
 ```
+
+### Multi Agent System
+```
+What is a Multi-Agent System?
+1. Multiple AI agents working together to complete a task.
+2. Instead of one AI doing everything, different agents handle different parts.
+3. Benefits: Faster execution, better accuracy, scalable systems, and handles complex problems.
+
+Real-Life Analogy:
+Think of a company team 🏢
+1. Manager → Plans
+2. Developer → Builds
+3. Tester → Checks
+4. Support → Handles Issues
+👉🏻 One person can't do everything efficiently, Teamwork = Faster and Better
+
+Key Idea 💡
+👉🏻 Divide Work → Assign Agents → Collaborate → Complete Task
+
+How it Works?
+1. User gives a task
+2. System creates multiple agents
+3. Each agent handles a part
+4. Agents communicate with each other
+5. Final result is combined
+
+Simple Flow ✅
+1. User Goal
+2. Planner Agent creates steps
+3. Different agents handle tasks
+4. Agents share results
+5. Final output generated
+
+Types of Multi-Agents Systems
+1. Collaborative: Agents help each other
+2. Specialized: Each has a specific role
+3. Competitive: Agents compete
+```
