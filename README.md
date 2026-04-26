@@ -143,5 +143,5 @@ Core Steps in Agentic Workflow:
 ### Deterministic Reasoning
 ```
 - A type of reasoning that exclusively uses rule-based logic to guarantee the same output for the same input.
-- AI agents are non-deterministic (produce different outputs or take different actions even when given the same prompts)
+- AI agents are non-deterministic (produce different outputs or take different actions for same prompts)
 ```
