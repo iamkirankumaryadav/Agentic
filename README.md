@@ -183,3 +183,14 @@ Types of Multi-Agents Systems
 2. Specialized: Each has a specific role
 3. Competitive: Agents compete
 ```
+### Multimodal AI
+```
+What is Multimodal AI?
+1. AI that can understand and work with multiple types of data (modes)
+2. Modes: Text 📝, Images 🖼️, Audio 🎤, Video 🎬, Documents 📄
+3. Multiple Inputs → Better Understanding → Smarter Output
+
+Real-Life Analogy
+1. Think of a human: Human can read text, see images, hear sounds, and watch videos.
+2. Human combine all this to understand better, that's exactly what Multimodal AI does.
+```
